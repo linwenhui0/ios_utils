@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'IOSUtilsLibrary'
-  s.version          = '0.1'
+  s.version          = '0.0.1'
   s.summary          = 'A short description of IOSUtilsLibrary.'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/linwenhui0/IOSUtilsLibrary'
+  s.homepage         = 'https://github.com/linwenhui0/ios_utils'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'linwenhui0' => '1252908234@qq.com' }
